@@ -1,56 +1,51 @@
 <?php
-namespace Dev\ProductComment\Setup;
 
-use Magento\Catalog\Model\Product;
-use Magento\Eav\Setup\EavSetupFactory;
+namespace Dev\ProductComments\Setup;
+
 use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
-use Dev\ProductComments\Model\Attribute\Frontend\Comment;
-use Magento\Eav\Model\Entity\Attribute\ScopedAttributeInterface;
 
+/**
+ * @codeCoverageIgnore
+ */
 class InstallData implements InstallDataInterface
 {
     /**
      * Eav setup factory
-     *
      * @var EavSetupFactory
      */
     private $eavSetupFactory;
-
     /**
      * Init
      * @param EavSetupFactory $eavSetupFactory
      */
-    public function __construct(EavSetupFactory $eavSetupFactory)
+    public function __construct(\Magento\Eav\Setup\EavSetupFactory $eavSetupFactory)
     {
         $this->eavSetupFactory = $eavSetupFactory;
     }
     /**
      * {@inheritdoc}
-     *
-     *  @SuppressWarnings(PHPMD.CyclomaticComplexity)
-     * @SuppressWarnings(PHPMD.ExcessiveMethodLength)     *
+     * @SuppressWarnings(PHPMD.CyclomaticComplexity)
+     * @SuppressWarnings(PHPMD.ExcessiveMethodLength)
      * @SuppressWarnings(PHPMD.NPathComplexity)
      */
-    public function install(
-        ModuleDataSetupInterface $setup,
-        ModuleContextInterface $context
-    ) {
-        $eavSetup = $this->eavSetupFactory->create();
+    public function install(ModuleDataSetupInterface $setup, ModuleContextInterface $context)
+    {
+        $eavSetup = $this->eavSetupFactory->create(['setup' => $setup]);
         $eavSetup->addAttribute(
-            Product::ENTITY,
+            \Magento\Catalog\Model\Product::ENTITY,
             'ProductComment',
             [
                 'group' => 'General',
                 'type' => 'varchar',
-                'label' => 'Product',
+                'label' => 'Product Comments',
                 'input' => 'select',
                 'source' => \Dev\ProductComments\Model\Attribute\Source\Comment::class,
-                'frontend' => Comment::class,
+                'frontend' => \Dev\ProductComments\Model\Attribute\Frontend\Comment::class,
                 'required' => false,
                 'sort_order' => 50,
-                'global' => ScopedAttributeInterface::SCOPE_GLOBAL,
+                'global' => \Magento\Eav\Model\Entity\Attribute\ScopedAttributeInterface::SCOPE_STORE,
                 'is_used_in_grid' => false,
                 'is_visible_in_grid' => false,
                 'is_filterable_in_grid' => false,

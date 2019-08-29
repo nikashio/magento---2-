@@ -4,7 +4,6 @@ namespace Dev\ProductComments\Model;
 
 use Dev\ProductComments\Api\Data\CommentInterface;
 use Dev\ProductComments\Api\CommentRepositoryInterface;
-use Dev\ProductComments\Model\ResourceModel\Comment\Collection;
 use Dev\ProductComments\Model\ResourceModel\Comment\CollectionFactory;
 use Dev\ProductComments\Model\ResourceModel\Comment\CollectionFactory as CommentCollectionFactory;
 
