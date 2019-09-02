@@ -1,0 +1,14 @@
+{{template config_path="design/email/header_template"}}
+<table>
+    <tr>
+        <th>{{trans 'Hi %name your comment is waiting for approval ' name=$name|row}}</th>
+    </tr>
+    <tr>
+        <th>{{trans ' you left comment for  %product' product=$product|row}}</th>
+    </tr>
+    <tr>
+        <th>{{trans 'your comment was "%comment"' comment=$comment|row}}</th>
+    </tr>
+</table>
+
+{{template config_path="design/email/footer_template"}} 
