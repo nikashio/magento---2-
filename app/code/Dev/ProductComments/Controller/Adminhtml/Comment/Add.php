@@ -12,6 +12,7 @@ use Dev\ProductComments\Model\CommentRepository;
 use Magento\Framework\Controller\ResultInterface;
 use Magento\Framework\Controller\Result\Redirect;
 use Magento\Framework\Exception\NoSuchEntityException;
+use Magento\Backend\Model\View\Result\Page as PageAlias;
 
 class Add extends \Dev\ProductComments\Controller\Adminhtml\Comment
 {
@@ -48,6 +49,20 @@ class Add extends \Dev\ProductComments\Controller\Adminhtml\Comment
         $this->resultPageFactory = $resultPageFactory;
         $this->commentModel = $commentModel;
         $this->commentRepository = $commentRepository;
+    }
+    /**
+     * Init page
+     *
+     * @param Page $resultPage
+     * @return Page
+     */
+
+    public function initPage($resultPage)
+    {
+        $resultPage->setActiveMenu(self::ADMIN_RESOURCE)
+            ->addBreadcrumb(__('Dev'), __('Dev'))
+            ->addBreadcrumb(__('Product Comment'), __('Product Comment'));
+        return $resultPage;
     }
 
     /**

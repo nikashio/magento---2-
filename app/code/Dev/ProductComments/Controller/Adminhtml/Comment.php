@@ -5,9 +5,9 @@ namespace Dev\ProductComments\Controller\Adminhtml;
 use Magento\Framework\Registry;
 use Magento\Framework\App\Action\Action;
 use Magento\Framework\App\Action\Context;
-use Magento\Backend\Model\View\Result\Page;
+use Magento\Framework\App\ResponseInterface;
 
-abstract class Comment extends Action
+class Comment extends Action
 {
 
     const ADMIN_RESOURCE = 'Dev_ProductComments::top_level';
@@ -23,16 +23,15 @@ abstract class Comment extends Action
     }
 
     /**
-     * Init page
+     * Execute action based on request and return result
      *
-     * @param  Page $resultPage
-     * @return Page
+     * Note: Request will be added as operation argument in future
+     *
+     * @return \Magento\Framework\Controller\ResultInterface|ResponseInterface
+     * @throws \Magento\Framework\Exception\NotFoundException
      */
-    public function initPage($resultPage)
+    public function execute()
     {
-        $resultPage->setActiveMenu(self::ADMIN_RESOURCE)
-            ->addBreadcrumb(__('Dev'), __('Dev'))
-            ->addBreadcrumb(__('Product Comment'), __('Product Comment'));
-        return $resultPage;
+        // TODO: Implement execute() method.
     }
 }
