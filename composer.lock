@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "2a0926a6ac0a3ee3c7f719229924d627",
+    "content-hash": "583e200358c80b178d2bff94745a7ebe",
     "packages": [
         {
             "name": "braintree/braintree_php",
@@ -608,6 +608,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/composer/magento-composer-1.2.0.0.zip",
+                "reference": null,
                 "shasum": "303513c83d4f6562ff1480a954bb298b37261fb3"
             },
             "require": {
@@ -636,6 +637,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/framework/magento-framework-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "ccaf22af96fca90612cc0a0f1c7b5b3bac52a095"
             },
             "require": {
@@ -690,6 +692,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/language-de_de/magento-language-de_de-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "5f835a25674df29121a971677a87676dc383b51e"
             },
             "require": {
@@ -713,6 +716,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/language-en_us/magento-language-en_us-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "476d31d027b6fdb9c12df5a9218bf92094f28c28"
             },
             "require": {
@@ -736,6 +740,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/language-es_es/magento-language-es_es-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "87fa3bfd389e0e5cfe31624727b7549011da0655"
             },
             "require": {
@@ -759,6 +764,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/language-fr_fr/magento-language-fr_fr-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "bd2f134284d3783a7759b6d0ff8139d4f3540a7b"
             },
             "require": {
@@ -782,6 +788,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/language-nl_nl/magento-language-nl_nl-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "32175ce9d76676c0c192079fad3c2a2ddc162ad7"
             },
             "require": {
@@ -805,6 +812,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/language-pt_br/magento-language-pt_br-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "97543bc58785d42f79a752f53d6af466ab6e92e4"
             },
             "require": {
@@ -828,6 +836,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/language-zh_hans_cn/magento-language-zh_hans_cn-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "81cba28bf016b296051a899fe098f24a2d2e59c4"
             },
             "require": {
@@ -930,6 +939,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/magento2-base/magento-magento2-base-2.2.0.0.zip",
+                "reference": null,
                 "shasum": "88ce5df41209984423495a474f26059b518ddb9a"
             },
             "require": {
@@ -1519,6 +1529,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-admin-notification/magento-module-admin-notification-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "de4671865c83c941dc06839bcf6f5c2bb3fd2d97"
             },
             "require": {
@@ -1551,6 +1562,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-advanced-pricing-import-export/magento-module-advanced-pricing-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "dd80cf5c901b676df23d2fec7f573f0e22e2edb4"
             },
             "require": {
@@ -1585,6 +1597,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-authorization/magento-module-authorization-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "aba21ab32de490a2410b01b170d4cfd7eb782c33"
             },
             "require": {
@@ -1613,6 +1626,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-authorizenet/magento-module-authorizenet-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "4729430e50dde11ebfe5677caa47e0102dcbd877"
             },
             "require": {
@@ -1649,6 +1663,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-backend/magento-module-backend-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "42af9a09200fad724c0f69183c48aa8d97eb2e82"
             },
             "require": {
@@ -1694,6 +1709,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-backup/magento-module-backup-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "02e716241d89425e0ec8722f56fa5819bb2d3951"
             },
             "require": {
@@ -1724,6 +1740,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-braintree/magento-module-braintree-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "20067b42a068aa4b7217948ce75b4cd809cf7d1a"
             },
             "require": {
@@ -1768,6 +1785,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "21414ea21169b9144a51acc41528c25c33715fe9"
             },
             "require": {
@@ -1814,6 +1832,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-bundle-import-export/magento-module-bundle-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "fd33c7a4fa8690f7f5fbb17eff913b5b9fa52d00"
             },
             "require": {
@@ -1841,11 +1860,43 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-bundle-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-bundle-sample-data/magento-module-bundle-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "94da5f57c89f82ce0db7e58654fc7025cd46851c"
+            },
+            "require": {
+                "magento/module-bundle": "100.2.*",
+                "magento/module-catalog-sample-data": "100.2.*",
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-store": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\BundleSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-cache-invalidate",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-cache-invalidate/magento-module-cache-invalidate-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "b6cf8111cb12f45237601ad6e59ae6e3ab7b790a"
             },
             "require": {
@@ -1874,6 +1925,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-captcha/magento-module-captcha-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "8f2ba46fd3465847e31a383a0eb7a56d7910886a"
             },
             "require": {
@@ -1908,6 +1960,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-catalog/magento-module-catalog-102.0.0.0.zip",
+                "reference": null,
                 "shasum": "4d2a2ff4d1e2e0e8c486abe62deb7ad4e55cd760"
             },
             "require": {
@@ -1963,6 +2016,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "5f4bd4e3d8752851fd1934474b51f4305527cc25"
             },
             "require": {
@@ -2000,6 +2054,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-catalog-inventory/magento-module-catalog-inventory-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "bd18edd6c775eab16ecaf514d5cafd9ed533f688"
             },
             "require": {
@@ -2034,6 +2089,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-catalog-rule/magento-module-catalog-rule-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "7aacf56a718ee75b2d7ddf95fcb646aadcae3bc5"
             },
             "require": {
@@ -2072,6 +2128,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "8d50976caf1b1de4f9227a38d5d25da56b40d9c0"
             },
             "require": {
@@ -2101,11 +2158,69 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-catalog-rule-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-catalog-rule-sample-data/magento-module-catalog-rule-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "b3889e67ed9dfe1974c23b9b16a0ec55a41377a1"
+            },
+            "require": {
+                "magento/module-catalog-rule": "101.0.*",
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\CatalogRuleSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
+            "name": "magento/module-catalog-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-catalog-sample-data/magento-module-catalog-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "197b7ef34254ae5000de770508afe749ba8a7f86"
+            },
+            "require": {
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\CatalogSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-catalog-search",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-catalog-search/magento-module-catalog-search-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "c77fb9bc2a9b5aba5986fe79ff803895cda0d9ca"
             },
             "require": {
@@ -2142,6 +2257,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-catalog-url-rewrite/magento-module-catalog-url-rewrite-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "cfe813f10f14519be64439d3bf80177e9bcf3c16"
             },
             "require": {
@@ -2177,6 +2293,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-catalog-widget/magento-module-catalog-widget-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "ba22e4152d131a45387c949b0809bc39358e266b"
             },
             "require": {
@@ -2212,6 +2329,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-checkout/magento-module-checkout-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "3562306c8d6af8e9501bda94776f1ea40021d15d"
             },
             "require": {
@@ -2260,6 +2378,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-checkout-agreements/magento-module-checkout-agreements-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "1b556740c4d85e8502b48bd608fb1e50d8575170"
             },
             "require": {
@@ -2291,6 +2410,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-cms/magento-module-cms-102.0.0.0.zip",
+                "reference": null,
                 "shasum": "d8b35bb8ac940d5a7cdb9c4d6aadfad1ecad6206"
             },
             "require": {
@@ -2325,11 +2445,43 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-cms-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-cms-sample-data/magento-module-cms-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "f957da48a9bdf48797a969c50f37b667cb82b393"
+            },
+            "require": {
+                "magento/module-cms": "102.0.*",
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-theme-sample-data": "100.2.*",
+                "magento/sample-data-media": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\CmsSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-cms-url-rewrite",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-cms-url-rewrite/magento-module-cms-url-rewrite-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "fc282a5823d06d9572005418ec96ef5a73c2d75f"
             },
             "require": {
@@ -2360,6 +2512,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-config/magento-module-config-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "e09d3221b060e7c6b3e2511edf47b5f397bf3041"
             },
             "require": {
@@ -2394,6 +2547,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-configurable-import-export/magento-module-configurable-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "21b4e4e76c6a6feea6c41dc454763cd2dd8c42f9"
             },
             "require": {
@@ -2426,6 +2580,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-configurable-product/magento-module-configurable-product-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "adee8afa5fdb60a8fa4145d5501a594a901d29f2"
             },
             "require": {
@@ -2471,6 +2626,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-configurable-product-sales/magento-module-configurable-product-sales-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "7d804e85e5a864b8dd088115f6f223ea2e6dada9"
             },
             "require": {
@@ -2499,11 +2655,42 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-configurable-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-configurable-sample-data/magento-module-configurable-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "43ba5fc0e9156df81d0ee1aeadcbeea4475f8f16"
+            },
+            "require": {
+                "magento/module-configurable-product": "100.2.*",
+                "magento/module-product-links-sample-data": "100.2.*",
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\ConfigurableSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-contact",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-contact/magento-module-contact-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "9a18a3d6163d1e211ad381eb75e6c5effa9da2a4"
             },
             "require": {
@@ -2535,6 +2722,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-cookie/magento-module-cookie-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "ceee790985951c2213aa8c65ccad94c58fe167ea"
             },
             "require": {
@@ -2566,6 +2754,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-cron/magento-module-cron-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "2ad6098bd661f0c390c09831fdadac9e5c58bf8e"
             },
             "require": {
@@ -2597,6 +2786,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-currency-symbol/magento-module-currency-symbol-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "53f73214a5bd9768fd4f3108d5064a04af8b7f2f"
             },
             "require": {
@@ -2629,6 +2819,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-customer/magento-module-customer-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "84171ac54a062e3ab08c27a018d87d6c47bfb1e3"
             },
             "require": {
@@ -2679,6 +2870,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-customer-import-export/magento-module-customer-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "90dcbe2e8f891f666c393ba6f61b21e996e50536"
             },
             "require": {
@@ -2707,11 +2899,40 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-customer-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-customer-sample-data/magento-module-customer-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "caf2dc87f3f9443f2ad5e7443a3f7ba040c54848"
+            },
+            "require": {
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\CustomerSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-deploy",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-deploy/magento-module-deploy-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "30c3e00c7be3eac6bcb8a224acf5c1619ea0b46c"
             },
             "require": {
@@ -2744,6 +2965,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-developer/magento-module-developer-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "fd9cecab3cc9392fcbcbf9be2d4684db4380c63b"
             },
             "require": {
@@ -2773,6 +2995,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "98c16ebe6260ef67b766e26edf559c8186ab8d10"
             },
             "require": {
@@ -2813,6 +3036,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-directory/magento-module-directory-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "fc89c9f51beaf1a0b9f80e40a5d022a5b9b3580c"
             },
             "require": {
@@ -2844,6 +3068,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-downloadable/magento-module-downloadable-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "b5f5dfe588c9e7c788c598ba1645f36ca8d060cc"
             },
             "require": {
@@ -2890,6 +3115,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-downloadable-import-export/magento-module-downloadable-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "91ce196641f5d319efcf2cab322dacd720271a9e"
             },
             "require": {
@@ -2918,11 +3144,44 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-downloadable-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-downloadable-sample-data/magento-module-downloadable-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "14c30b4aaeacfa5de01e3c6016bc7aa9f7ce98f0"
+            },
+            "require": {
+                "magento/module-catalog-sample-data": "100.2.*",
+                "magento/module-downloadable": "100.2.*",
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-store": "100.2.*",
+                "magento/sample-data-media": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\DownloadableSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-eav",
             "version": "101.0.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-eav/magento-module-eav-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "a9a745be29d50f8c210af6c77d49b7b57ad4fb51"
             },
             "require": {
@@ -2955,6 +3214,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-email/magento-module-email-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "821ec5d98c36f483e36ec7520a27f33522bedd78"
             },
             "require": {
@@ -2991,6 +3251,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "36110a994559a0f26ff237eaf7e0055d8223af06"
             },
             "require": {
@@ -3019,6 +3280,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-fedex/magento-module-fedex-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "e86a90e4e1e2f9bf61ed330ee663177f109cda8c"
             },
             "require": {
@@ -3055,6 +3317,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-gift-message/magento-module-gift-message-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "e5a56f68f713b1412e8234c503233f39bf851f4a"
             },
             "require": {
@@ -3093,6 +3356,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-google-adwords/magento-module-google-adwords-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "c0be0e751cf790943a5c436fa22e29787bd01bb9"
             },
             "require": {
@@ -3122,6 +3386,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-google-analytics/magento-module-google-analytics-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "bff31b97b9c00a5a89c848c47bc934350128fd6d"
             },
             "require": {
@@ -3155,6 +3420,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-google-optimizer/magento-module-google-optimizer-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "38b00a572b9af8d68da29fb728fc5bebdaa011d1"
             },
             "require": {
@@ -3188,6 +3454,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-grouped-import-export/magento-module-grouped-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "15a9c2c860e5b6f9f478640a854f54e277c06dfc"
             },
             "require": {
@@ -3220,6 +3487,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "929b9576f5d09eff819e8b7414ff09d69788b890"
             },
             "require": {
@@ -3257,11 +3525,43 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-grouped-product-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-grouped-product-sample-data/magento-module-grouped-product-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "8f50a92e956d76243004e08b74fa5186f9b7124f"
+            },
+            "require": {
+                "magento/module-catalog-sample-data": "100.2.*",
+                "magento/module-grouped-product": "100.2.*",
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-store": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\GroupedProductSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-import-export",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-import-export/magento-module-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "5b0c5e900393141bb40be929ffba0909585720da"
             },
             "require": {
@@ -3295,6 +3595,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-indexer/magento-module-indexer-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "bac752d67289e0a590d94ee6eb9cdfc17e217e92"
             },
             "require": {
@@ -3323,6 +3624,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-integration/magento-module-integration-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "44916ae753e6881e956de9f94bddd3797aecb5f9"
             },
             "require": {
@@ -3356,6 +3658,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-layered-navigation/magento-module-layered-navigation-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "9477b1aa915348c23a543dec96ddb1fdbde06e41"
             },
             "require": {
@@ -3385,6 +3688,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-marketplace/magento-module-marketplace-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "537721eef929b72f04b347e11f5aa001f1b651b2"
             },
             "require": {
@@ -3413,6 +3717,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-media-storage/magento-module-media-storage-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "70ca7b155cd69b8313a1e3eb7df738966d82b53c"
             },
             "require": {
@@ -3443,6 +3748,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-msrp/magento-module-msrp-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "0714f4a2a95db2ec0c1604d0af31a4d4d564b5a7"
             },
             "require": {
@@ -3475,11 +3781,41 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-msrp-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-msrp-sample-data/magento-module-msrp-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "1da3bcd13f2419e503aafe269eee7d52b893a694"
+            },
+            "require": {
+                "magento/module-msrp": "100.2.*",
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\MsrpSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-multishipping",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-multishipping/magento-module-multishipping-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "d03946acf8d63cfe2b7be96d7c3f6f6db8fa87d1"
             },
             "require": {
@@ -3518,6 +3854,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-new-relic-reporting/magento-module-new-relic-reporting-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "8c994ee4d756d84b2a9a95fa4b45adfa435c5ad9"
             },
             "require": {
@@ -3552,6 +3889,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-newsletter/magento-module-newsletter-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "7a7e996d3e6ca34a365b96ad82132bc6487864c2"
             },
             "require": {
@@ -3587,6 +3925,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-offline-payments/magento-module-offline-payments-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "d4080379ef70d3eb7c5d7110a422e9efc475d876"
             },
             "require": {
@@ -3619,6 +3958,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-offline-shipping/magento-module-offline-shipping-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "207901567176a2cb79ad56f3b5f1994d8ff4508e"
             },
             "require": {
@@ -3654,11 +3994,42 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-offline-shipping-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-offline-shipping-sample-data/magento-module-offline-shipping-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "75072891ff1241d55e9e318a239525a1504e6d4a"
+            },
+            "require": {
+                "magento/module-directory": "100.2.*",
+                "magento/module-offline-shipping": "100.2.*",
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\OfflineShippingSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-page-cache",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-page-cache/magento-module-page-cache-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "739c80aec5c823f2b734a0308b1ec9dd36e8a46d"
             },
             "require": {
@@ -3689,6 +4060,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-payment/magento-module-payment-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "3cd2a9f708372f026d2525eef1c59a0bf1294fc7"
             },
             "require": {
@@ -3722,6 +4094,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-paypal/magento-module-paypal-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "fc6194a20e9bebf48ae0ea2a1685446d5bdfaa5b"
             },
             "require": {
@@ -3767,6 +4140,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-persistent/magento-module-persistent-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "23ea6b81331e2c08b211544728753356df1091a2"
             },
             "require": {
@@ -3800,6 +4174,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-product-alert/magento-module-product-alert-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "907c698935d91ef769d4029e708590a44c7a9183"
             },
             "require": {
@@ -3829,11 +4204,41 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-product-links-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-product-links-sample-data/magento-module-product-links-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "5edf6f55ddea77de3f68ebf9b9272bd955156f55"
+            },
+            "require": {
+                "magento/module-catalog-sample-data": "100.2.*",
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\ProductLinksSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-product-video",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-product-video/magento-module-product-video-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "74c464dc21e0f0491709ac2ccaf231d636affd4d"
             },
             "require": {
@@ -3870,6 +4275,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "a201d8f2093d9e72e3a705c6d5f923add4a0fcc9"
             },
             "require": {
@@ -3914,6 +4320,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-reports/magento-module-reports-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "6a2150868e96feddeb3f58984ca087c2c3caac26"
             },
             "require": {
@@ -3957,6 +4364,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-require-js/magento-module-require-js-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "405d374173e637406f8c3b024f98e727a5473d52"
             },
             "require": {
@@ -3984,6 +4392,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-review/magento-module-review-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "0f98915d8a22ac27c317786c86881eb6fda88c44"
             },
             "require": {
@@ -4018,11 +4427,41 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-review-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-review-sample-data/magento-module-review-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "1e3ea97ce2aea08c4978966c52df2da2e795bcbe"
+            },
+            "require": {
+                "magento/module-review": "100.2.*",
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\ReviewSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-robots",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-robots/magento-module-robots-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "b89a21137efc190550c048ce97f874be37cdf34c"
             },
             "require": {
@@ -4054,6 +4493,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-rss/magento-module-rss-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "14fa55b25e4789147e7dfcfe3d0977d8467803c9"
             },
             "require": {
@@ -4084,6 +4524,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-rule/magento-module-rule-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "c3a9f5be2f9a5ec1f5995122a67172140b9bf17c"
             },
             "require": {
@@ -4116,6 +4557,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-sales/magento-module-sales-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "81b0b43efc40e5bc74ecb5acb30d5ae207254c40"
             },
             "require": {
@@ -4169,6 +4611,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "8837c4d181b9c4527c3b136de2bda5b654dc02ed"
             },
             "require": {
@@ -4200,6 +4643,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-sales-rule/magento-module-sales-rule-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "712c75ed0abdffad2c470af13b9e68d7eb41dcc1"
             },
             "require": {
@@ -4241,11 +4685,73 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-sales-rule-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-sales-rule-sample-data/magento-module-sales-rule-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "d7603845f06093d9ec84988c825fb35b63702fe5"
+            },
+            "require": {
+                "magento/module-catalog-rule-sample-data": "100.2.*",
+                "magento/module-eav": "101.0.*",
+                "magento/module-sales-rule": "101.0.*",
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\SalesRuleSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
+            "name": "magento/module-sales-sample-data",
+            "version": "100.2.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-sales-sample-data/magento-module-sales-sample-data-100.2.1.0.zip",
+                "reference": null,
+                "shasum": "81adc813b843fc4e6e1619cd03fdb32878589189"
+            },
+            "require": {
+                "magento/module-configurable-sample-data": "100.2.*",
+                "magento/module-sales": "101.0.*",
+                "magento/module-sample-data": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\SalesSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-sales-sequence",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-sales-sequence/magento-module-sales-sequence-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "3565cb8b993d95bcd3c760de761b4f98583c5b38"
             },
             "require": {
@@ -4273,6 +4779,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-sample-data/magento-module-sample-data-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "195bfd46d28bb4382f991a8b3c2b3d17a0d651aa"
             },
             "require": {
@@ -4304,6 +4811,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-search/magento-module-search-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "34d5edf9aff635aa8ccac1033fd16dc59899e008"
             },
             "require": {
@@ -4336,6 +4844,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-security/magento-module-security-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "49f9bca6ed2d3678b2de10fc1e0aeaa9f7a20fc9"
             },
             "require": {
@@ -4368,6 +4877,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-send-friend/magento-module-send-friend-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "3472e9a5c898ce01dfe66d075ddf10ad7c9e17ec"
             },
             "require": {
@@ -4398,6 +4908,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "6c1c85dc040f193ebb3424dd55dcbcd9f6aeca2a"
             },
             "require": {
@@ -4444,6 +4955,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-sitemap/magento-module-sitemap-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "32b47fb8a6e509c0a302132e1ca89f15f2c2e858"
             },
             "require": {
@@ -4483,6 +4995,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-store/magento-module-store-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "b55228c9e84e76b9005a5e16c7d3ba8b9100cf1d"
             },
             "require": {
@@ -4518,6 +5031,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-swagger/magento-module-swagger-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "d796fa501aeba124e40a22fa4b27029ed1a9c326"
             },
             "require": {
@@ -4545,6 +5059,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-swatches/magento-module-swatches-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "55773e3b502cd8f68a7db4ee93c5a1b007ddb64b"
             },
             "require": {
@@ -4584,6 +5099,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-swatches-layered-navigation/magento-module-swatches-layered-navigation-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "5c95c51dd91693eb61eec0a96546706c1d0a9810"
             },
             "require": {
@@ -4607,11 +5123,42 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-swatches-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-swatches-sample-data/magento-module-swatches-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "46131c68f4dc4f03ac062862420b15d198c0f95c"
+            },
+            "require": {
+                "magento/module-eav": "101.0.*",
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-swatches": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\SwatchesSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-tax",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-tax/magento-module-tax-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "bccc9f1e3b01c2b1f828487b31d358c5db90c548"
             },
             "require": {
@@ -4655,6 +5202,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-tax-import-export/magento-module-tax-import-export-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "5ec82e2381cb8d4e529aca0a45890493aa19a01b"
             },
             "require": {
@@ -4681,11 +5229,41 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-tax-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-tax-sample-data/magento-module-tax-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "43cd53d33360a0512e8123cfb1cf64631bc67092"
+            },
+            "require": {
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-tax": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\TaxSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-theme",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "34d22b25ebf9408e89d279228e34d1691a9a28f6"
             },
             "require": {
@@ -4724,11 +5302,41 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-theme-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-theme-sample-data/magento-module-theme-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "74b075a63e3ec4b210458a2a67607e9516cbde3b"
+            },
+            "require": {
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-theme": "100.2.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\ThemeSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-translation",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-translation/magento-module-translation-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "aff0f78b7c53dc7ce09681504a247d54bb79496d"
             },
             "require": {
@@ -4762,6 +5370,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-ui/magento-module-ui-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "6494a9036ef2be59ca5c8b902c9243dafbe64fdd"
             },
             "require": {
@@ -4796,6 +5405,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-ups/magento-module-ups-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "a968428f77d2fe6c3f124dcf2bedfe6865973168"
             },
             "require": {
@@ -4833,6 +5443,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-url-rewrite/magento-module-url-rewrite-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "2508c770394f8a0efe1da4dd515df8bfc0c97767"
             },
             "require": {
@@ -4866,6 +5477,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-user/magento-module-user-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "eaf92ebfafebfda0f38cdc869538f32484e804ad"
             },
             "require": {
@@ -4899,6 +5511,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-usps/magento-module-usps-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "d31ab0f12b5949d2e48d605222dc643a3eab4e21"
             },
             "require": {
@@ -4935,6 +5548,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-variable/magento-module-variable-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "f38076ef6f3f1d73e3e25c2f670be54e17e162b7"
             },
             "require": {
@@ -4965,6 +5579,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "db5ad12efa6194833b3c458208159ee13098babe"
             },
             "require": {
@@ -4996,6 +5611,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-version/magento-module-version-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "afb556bbc6e9bad7833f6b017712b6c7ac05198a"
             },
             "require": {
@@ -5023,6 +5639,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-webapi/magento-module-webapi-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "6fa43e7e64a23adfee266040b8e438f9acfc369e"
             },
             "require": {
@@ -5058,6 +5675,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "c5b71ee6092fc9622fd18121531650f3844450e7"
             },
             "require": {
@@ -5086,6 +5704,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-weee/magento-module-weee-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "9d10602430844a83047713f6080f9907bf075aaa"
             },
             "require": {
@@ -5128,6 +5747,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "4a036131a1b1bed8db98afd36a1f974fb1a01a11"
             },
             "require": {
@@ -5160,11 +5780,43 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-widget-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-widget-sample-data/magento-module-widget-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "f570c09f6c8c3afcc200fd4f0f2be8b9169b5fcb"
+            },
+            "require": {
+                "magento/module-cms": "102.0.*",
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-theme": "100.2.*",
+                "magento/module-widget": "101.0.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\WidgetSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/module-wishlist",
             "version": "101.0.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/module-wishlist/magento-module-wishlist-101.0.0.0.zip",
+                "reference": null,
                 "shasum": "2aa761ea207bde4ba4465d0b3e881660fa8243ef"
             },
             "require": {
@@ -5204,11 +5856,41 @@
             "description": "N/A"
         },
         {
+            "name": "magento/module-wishlist-sample-data",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/module-wishlist-sample-data/magento-module-wishlist-sample-data-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "19aaea4ee3726aabe2b920741c122e140ac64e2c"
+            },
+            "require": {
+                "magento/module-sample-data": "100.2.*",
+                "magento/module-wishlist": "101.0.*",
+                "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Magento\\WishlistSampleData\\": ""
+                }
+            },
+            "license": [
+                "OSL-3.0",
+                "AFL-3.0"
+            ],
+            "description": "N/A"
+        },
+        {
             "name": "magento/product-community-edition",
             "version": "2.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/product-community-edition/magento-product-community-edition-2.2.0.0.zip",
+                "reference": null,
                 "shasum": "720ce672ea6f192610ed91c289a1bcd89022c415"
             },
             "require": {
@@ -5402,11 +6084,32 @@
             "description": "eCommerce Platform for Growth (Community Edition)"
         },
         {
+            "name": "magento/sample-data-media",
+            "version": "100.2.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/magento/sample-data-media/magento-sample-data-media-100.2.0.0.zip",
+                "reference": null,
+                "shasum": "fe79a04209f5c57a3dcbf3b40dd4c9ef897e5e40"
+            },
+            "type": "magento2-component",
+            "extra": {
+                "map": [
+                    [
+                        "*",
+                        "pub/media"
+                    ]
+                ]
+            },
+            "description": "Sample Data media files"
+        },
+        {
             "name": "magento/theme-adminhtml-backend",
             "version": "100.2.0",
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/theme-adminhtml-backend/magento-theme-adminhtml-backend-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "3424e098efadbf24679cda545b190e1c6ff8b3a4"
             },
             "require": {
@@ -5431,6 +6134,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/theme-frontend-blank/magento-theme-frontend-blank-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "ec7db2e96971a7f54dca82a124ad7b5469a88f45"
             },
             "require": {
@@ -5455,6 +6159,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/magento/theme-frontend-luma/magento-theme-frontend-luma-100.2.0.0.zip",
+                "reference": null,
                 "shasum": "84d644ffdb014824c67a7b21ab7f80100644cc71"
             },
             "require": {
@@ -6183,6 +6888,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://repo.magento.com/archives/shopialfb/facebook-module/shopialfb-facebook-module-2.0.0.0.zip",
+                "reference": null,
                 "shasum": "66d80e1d1fe9f62ba2a80e88a6c0f6f96ba6ba21"
             },
             "type": "magento2-module",
