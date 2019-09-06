@@ -1,0 +1,24 @@
+{
+  "name": "devall/edu",
+  "description": "N/A",
+  "require": {
+    "php": "~7.1.3||~7.2.0",
+    "magento/framework": "*",
+    "magento/theme-frontend-blank": "*"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  },
+  "type": "magento2-theme",
+  "version": "100.0.1",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
